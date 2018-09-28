@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localPath</key>
+	<string>/Users/jiajunbo/Downloads/com.orangeapps.photos 2018-09-22 02:03.50.438.xcappdata</string>
+	<key>topLevel</key>
+	<dict>
+		<key>/Documents/.Themes.persistent</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1339</string>
+			<key>dModificationTime</key>
+			<string>1537553128108606989</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_1339</string>
+		</dict>
+		<key>/Documents/.coredata.sqlite</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>28672</string>
+			<key>dModificationTime</key>
+			<string>1537553130404961421</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_28672</string>
+		</dict>
+		<key>/Documents/.coredata.sqlite-shm</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>32768</string>
+			<key>dModificationTime</key>
+			<string>1537553122300339905</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_32768</string>
+		</dict>
+		<key>/Documents/.coredata.sqlite-wal</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>0</string>
+			<key>dModificationTime</key>
+			<string>1537553122310799015</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_0</string>
+		</dict>
+		<key>/Documents/.隐藏项目/隐藏内容.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>492916</string>
+			<key>dModificationTime</key>
+			<string>1537553128094965871</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_492916</string>
+		</dict>
+		<key>/Documents/GIF图/sample-image-1.gif</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>4806030</string>
+			<key>dModificationTime</key>
+			<string>1537553127940083185</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:02 +0000__size_4806030</string>
+		</dict>
+		<key>/Documents/GIF图/sample-image-2.gif</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1170276</string>
+			<key>dModificationTime</key>
+			<string>1537553126202409634</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_1170276</string>
+		</dict>
+		<key>/Documents/动物/sample-image-1.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>495883</string>
+			<key>dModificationTime</key>
+			<string>1537553129985637103</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_495883</string>
+		</dict>
+		<key>/Documents/动物/sample-image-2.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>314695</string>
+			<key>dModificationTime</key>
+			<string>1537553129513459859</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_314695</string>
+		</dict>
+		<key>/Documents/动物/sample-image-3.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>603382</string>
+			<key>dModificationTime</key>
+			<string>1537553129773149979</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_603382</string>
+		</dict>
+		<key>/Documents/动物/sample-image-4.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>321838</string>
+			<key>dModificationTime</key>
+			<string>1537553130135694110</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_321838</string>
+		</dict>
+		<key>/Documents/动物/sample-image-5.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>227456</string>
+			<key>dModificationTime</key>
+			<string>1537553130247848437</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_227456</string>
+		</dict>
+		<key>/Documents/动物/sample-image-6.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>283002</string>
+			<key>dModificationTime</key>
+			<string>1537553130375916930</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_283002</string>
+		</dict>
+		<key>/Documents/城市/sample-image-1.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1028296</string>
+			<key>dModificationTime</key>
+			<string>1537553120780671868</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_1028296</string>
+		</dict>
+		<key>/Documents/城市/sample-image-2.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1369909</string>
+			<key>dModificationTime</key>
+			<string>1537553120231457594</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:04 +0000__size_1369909</string>
+		</dict>
+		<key>/Documents/城市/sample-image-3.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>573982</string>
+			<key>dModificationTime</key>
+			<string>1537553120397466851</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_573982</string>
+		</dict>
+		<key>/Documents/城市/sample-image-4.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>866118</string>
+			<key>dModificationTime</key>
+			<string>1537553121120837984</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:04 +0000__size_866118</string>
+		</dict>
+		<key>/Documents/城市/sample-image-5.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>956204</string>
+			<key>dModificationTime</key>
+			<string>1537553121504487212</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:04 +0000__size_956204</string>
+		</dict>
+		<key>/Documents/城市/sample-image-6.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>738448</string>
+			<key>dModificationTime</key>
+			<string>1537553122272851918</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:03 +0000__size_738448</string>
+		</dict>
+		<key>/Documents/城市/sample-image-7.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1006234</string>
+			<key>dModificationTime</key>
+			<string>1537553121940816657</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:04 +0000__size_1006234</string>
+		</dict>
+		<key>/Documents/长图/sample-image-1.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1441279</string>
+			<key>dModificationTime</key>
+			<string>1537553129373337752</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:00 +0000__size_1441279</string>
+		</dict>
+		<key>/Documents/长图/sample-image-2.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>2349079</string>
+			<key>dModificationTime</key>
+			<string>1537553128949478464</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_2349079</string>
+		</dict>
+		<key>/Documents/风景/sample-image-1.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1162616</string>
+			<key>dModificationTime</key>
+			<string>1537553123248881529</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:01 +0000__size_1162616</string>
+		</dict>
+		<key>/Documents/风景/sample-image-2.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>793233</string>
+			<key>dModificationTime</key>
+			<string>1537553122637028930</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:00 +0000__size_793233</string>
+		</dict>
+		<key>/Documents/风景/sample-image-3.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>322138</string>
+			<key>dModificationTime</key>
+			<string>1537553122781672715</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:01 +0000__size_322138</string>
+		</dict>
+		<key>/Documents/风景/sample-image-4.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1017075</string>
+			<key>dModificationTime</key>
+			<string>1537553123658824907</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:00 +0000__size_1017075</string>
+		</dict>
+		<key>/Documents/风景/sample-image-5.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1069801</string>
+			<key>dModificationTime</key>
+			<string>1537553124066384777</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:01 +0000__size_1069801</string>
+		</dict>
+		<key>/Documents/风景/sample-image-6.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1448155</string>
+			<key>dModificationTime</key>
+			<string>1537553125426566867</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:00 +0000__size_1448155</string>
+		</dict>
+		<key>/Documents/风景/sample-image-7.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>1831874</string>
+			<key>dModificationTime</key>
+			<string>1537553124817753358</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:01 +0000__size_1831874</string>
+		</dict>
+		<key>/Documents/风景/sample-image-8.jpg</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>698545</string>
+			<key>dModificationTime</key>
+			<string>1537553125721625952</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:04:01 +0000__size_698545</string>
+		</dict>
+		<key>/Library/Application Support/com.tencent.bugly/v1/BLYDataManager/SettingData/bugly-data-keyValueStorage</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>2379</string>
+			<key>dModificationTime</key>
+			<string>1537553119797461573</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_2379</string>
+		</dict>
+		<key>/Library/Caches/com.orangeapps.photos/nsurlcache/Cache.db</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>4096</string>
+			<key>dModificationTime</key>
+			<string>1537553119909169816</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_4096</string>
+		</dict>
+		<key>/Library/Caches/com.orangeapps.photos/nsurlcache/Cache.db-shm</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>32768</string>
+			<key>dModificationTime</key>
+			<string>1537553119844961736</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_32768</string>
+		</dict>
+		<key>/Library/Caches/com.orangeapps.photos/nsurlcache/Cache.db-wal</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>214272</string>
+			<key>dModificationTime</key>
+			<string>1537553119901860255</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_214272</string>
+		</dict>
+		<key>/Library/Caches/com.orangeapps.photos/nsurlcache/fsCachedData/2821E74A-9516-4A74-9AF8-DF32766171F3</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>4318</string>
+			<key>dModificationTime</key>
+			<string>1537553119831133617</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_4318</string>
+		</dict>
+		<key>/Library/Preferences/com.orangeapps.photos.plist</key>
+		<dict>
+			<key>dFileSize</key>
+			<string>289</string>
+			<key>dModificationTime</key>
+			<string>1537553119810278356</string>
+			<key>localModificationInfo</key>
+			<string>date_2018-09-21 18:03:59 +0000__size_289</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
