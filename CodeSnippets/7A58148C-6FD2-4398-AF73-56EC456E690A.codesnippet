@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>objc_getAssociatedObject(self, @selector(&lt;#property#&gt;));</string>
+	<string>objc_getAssociatedObject(self, @selector(&lt;#selector#&gt;))&lt;#;#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7A58148C-6FD2-4398-AF73-56EC456E690A</string>
 	<key>IDECodeSnippetLanguage</key>

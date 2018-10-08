@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>objc_setAssociatedObject(self, @selector(&lt;#property#&gt;), &lt;#property#&gt;, OBJC_ASSOCIATION_RETAIN_NONATOMIC);</string>
+	<string>objc_setAssociatedObject(self, @selector(&lt;#selector#&gt;), &lt;#obj#&gt;, OBJC_ASSOCIATION_RETAIN_NONATOMIC)&lt;#;#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6C3B699-F161-4D48-91CF-613057D53066</string>
 	<key>IDECodeSnippetLanguage</key>
