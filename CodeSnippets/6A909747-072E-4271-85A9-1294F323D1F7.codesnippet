@@ -16,6 +16,8 @@
         _&lt;#property#&gt;.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
         _&lt;#property#&gt;.textColor = &lt;#text color#&gt;;
         _&lt;#property#&gt;.textAlignment = NSTextAlignment&lt;#alignment#&gt;;
+        _&lt;#property#&gt;.lineBreakMode = NSLineBreakBy&lt;#mode#&gt;;
+        _&lt;#property#&gt;.numberOfLines = &lt;#lines#&gt;;
         _&lt;#property#&gt;.text = @"";
     }
     return _&lt;#property#&gt;;
