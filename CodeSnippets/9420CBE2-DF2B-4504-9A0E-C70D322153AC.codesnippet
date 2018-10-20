@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>procopycs</string>
+	<string>prostrcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) NS&lt;#type#&gt; *&lt;#property#&gt;;</string>
+	<string>@property (nonatomic, copy) NSString *&lt;#property#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9420CBE2-DF2B-4504-9A0E-C70D322153AC</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>@property copy Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property copy</string>
+	<string>@property NSString</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
