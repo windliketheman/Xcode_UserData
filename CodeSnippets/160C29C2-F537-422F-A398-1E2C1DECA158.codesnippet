@@ -10,15 +10,15 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIButton *)&lt;#property#&gt; {
-    if (!_&lt;#property#&gt;) {
-        _&lt;#property#&gt; = [[UIButton alloc] init];
-        _&lt;#property#&gt;.backgroundColor = [UIColor clearColor];
-        _&lt;#property#&gt;.titleLabel.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
-        [_&lt;#property#&gt; setTitleColor:&lt;#title color#&gt; forState:UIControlStateNormal];
-        [_&lt;#property#&gt; setTitle:&lt;#title#&gt; forState:UIControlStateNormal];
-        [_&lt;#property#&gt; addTarget:self action:@selector(&lt;#action#&gt;) forControlEvents:UIControlEventTouchUpInside];
-    }
-    return _&lt;#property#&gt;;
+if (!_&lt;#property#&gt;) {
+_&lt;#property#&gt; = [[UIButton alloc] init];
+_&lt;#property#&gt;.backgroundColor = [UIColor clearColor];
+_&lt;#property#&gt;.titleLabel.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
+[_&lt;#property#&gt; setTitleColor:&lt;#titleColor#&gt; forState:UIControlStateNormal];
+[_&lt;#property#&gt; setTitle:&lt;#title#&gt; forState:UIControlStateNormal];
+[_&lt;#property#&gt; addTarget:self action:@selector(&lt;#action#&gt;) forControlEvents:UIControlEventTouchUpInside];
+}
+return _&lt;#property#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>160C29C2-F537-422F-A398-1E2C1DECA158</string>

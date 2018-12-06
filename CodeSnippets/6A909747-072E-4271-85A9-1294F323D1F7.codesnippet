@@ -10,17 +10,17 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>- (UILabel *)&lt;#property#&gt; {
-    if (!_&lt;#property#&gt;) {
-        _&lt;#property#&gt; = [[UILabel alloc] init];
-        _&lt;#property#&gt;.backgroundColor = [UIColor clearColor];
-        _&lt;#property#&gt;.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
-        _&lt;#property#&gt;.textColor = &lt;#text color#&gt;;
-        _&lt;#property#&gt;.textAlignment = NSTextAlignment&lt;#alignment#&gt;;
-        _&lt;#property#&gt;.lineBreakMode = NSLineBreakBy&lt;#mode#&gt;;
-        _&lt;#property#&gt;.numberOfLines = &lt;#lines#&gt;;
-        _&lt;#property#&gt;.text = @"";
-    }
-    return _&lt;#property#&gt;;
+if (!_&lt;#property#&gt;) {
+_&lt;#property#&gt; = [[UILabel alloc] init];
+_&lt;#property#&gt;.backgroundColor = [UIColor clearColor];
+_&lt;#property#&gt;.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
+_&lt;#property#&gt;.textColor = &lt;#textColor#&gt;;
+_&lt;#property#&gt;.textAlignment = NSTextAlignment&lt;#Left#&gt;;
+_&lt;#property#&gt;.lineBreakMode = NSLineBreakBy&lt;#WordWrapping#&gt;;
+_&lt;#property#&gt;.numberOfLines = &lt;#lines#&gt;;
+_&lt;#property#&gt;.text = @"";
+}
+return _&lt;#property#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A909747-072E-4271-85A9-1294F323D1F7</string>
