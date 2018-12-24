@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lltcs</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (UITableView *)tableView {
+    if (!_tableView) {
+        _tableView = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStylePlain];
+        _tableView.backgroundColor = &lt;#[UIColor whiteColor]#&gt;;
+        _tableView.separatorColor = &lt;#[UIColor grayColor]#&gt;;
+        _tableView.rowHeight = UITableViewAutomaticDimension;
+        _tableView.estimatedRowHeight = 50;
+        _tableView.contentInset = &lt;#UIEdgeInsetsZero#&gt;;
+    }
+    return _tableView;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9C54C7ED-8632-412F-97EC-248A486F2061</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Lazyload TableView Code Snippet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Lazyload TableView</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

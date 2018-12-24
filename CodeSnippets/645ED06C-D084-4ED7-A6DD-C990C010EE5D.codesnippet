@@ -3,30 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>llcs</string>
+	<string>rightbuttonitemcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (&lt;#UIView#&gt; *)&lt;#property#&gt; {
-if (!_&lt;#property#&gt;) {
-_&lt;#property#&gt; = [[&lt;#UIView#&gt; alloc] init];
-_&lt;#property#&gt;.backgroundColor = [UIColor whiteColor];
-}
-return _&lt;#property#&gt;;
-}</string>
+	<string>UIBarButtonItem *rightItem = [[UIBarButtonItem alloc] initWithTitle:&lt;#title#&gt; style:UIBarButtonItemStylePlain target:self action:@selector(&lt;#selector#&gt;)];
+self.navigationItem.rightBarButtonItem = rightItem;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>163F476A-414A-4EAD-AB38-29A22528DA24</string>
+	<string>645ED06C-D084-4ED7-A6DD-C990C010EE5D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Lazyload Code Snippet</string>
+	<string>Navigation Right Button Item Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazyload</string>
+	<string>Navigation Right Button Item</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

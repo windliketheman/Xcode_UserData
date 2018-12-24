@@ -27,9 +27,9 @@ return _&lt;#property#&gt;;
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Lazy Load Label Code Snippet</string>
+	<string>Lazyload Label Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy Load Label</string>
+	<string>Lazyload Label</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
