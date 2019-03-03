@@ -17,9 +17,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Masonry Code Snippet</string>
+	<string>Masonry Make Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Masonry</string>
+	<string>Masonry Make</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

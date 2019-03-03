@@ -9,12 +9,12 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (&lt;#UIView#&gt; *)&lt;#property#&gt; {
-if (!_&lt;#property#&gt;) {
-_&lt;#property#&gt; = [[&lt;#UIView#&gt; alloc] init];
-_&lt;#property#&gt;.backgroundColor = [UIColor whiteColor];
+	<string>- (&lt;#UIView#&gt; *)&lt;#subview#&gt; {
+if (!_&lt;#subview#&gt;) {
+_&lt;#subview#&gt; = [[&lt;#UIView#&gt; alloc] init];
+_&lt;#subview#&gt;.backgroundColor = [UIColor whiteColor];
 }
-return _&lt;#property#&gt;;
+return _&lt;#subview#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>163F476A-414A-4EAD-AB38-29A22528DA24</string>

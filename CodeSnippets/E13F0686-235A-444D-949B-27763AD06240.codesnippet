@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>setasscs</string>
+	<string>masupcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>objc_setAssociatedObject(self, @selector(&lt;#selector#&gt;), &lt;#obj#&gt;, OBJC_ASSOCIATION_RETAIN_NONATOMIC);</string>
+	<string>[&lt;#view#&gt; mas_updateConstraints:^(MASConstraintMaker *make) {
+        &lt;#make#&gt;
+    }];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F6C3B699-F161-4D48-91CF-613057D53066</string>
+	<string>E13F0686-235A-444D-949B-27763AD06240</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>set Associated Object Code Snippet</string>
+	<string>Masonry Update Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>set Associated Object</string>
+	<string>Masonry Update</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

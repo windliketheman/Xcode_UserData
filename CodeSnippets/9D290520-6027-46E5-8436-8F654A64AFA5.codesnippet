@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>setasscs</string>
+	<string>problockcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>objc_setAssociatedObject(self, @selector(&lt;#selector#&gt;), &lt;#obj#&gt;, OBJC_ASSOCIATION_RETAIN_NONATOMIC);</string>
+	<string>@property (nonatomic, copy) void (^&lt;#block#&gt;)(&lt;#params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F6C3B699-F161-4D48-91CF-613057D53066</string>
+	<string>9D290520-6027-46E5-8436-8F654A64AFA5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>set Associated Object Code Snippet</string>
+	<string>@property block Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>set Associated Object</string>
+	<string>@property block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
