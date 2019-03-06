@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>alertwithcancelcs</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSString *title = &lt;#title#&gt;;
+NSString *message = &lt;#message#&gt;;
+__weak __typeof(self) wself = self;
+
+UIAlertAction *cancelAction = [UIAlertAction actionWithTitle:@"取消" style:UIAlertActionStyleCancel handler:^(UIAlertAction *cancelAction) {
+    // do nothing
+}];
+
+UIAlertAction *sureAction = [UIAlertAction actionWithTitle:@"确定" style:UIAlertActionStyleDefault handler:^(UIAlertAction *sureAction) {
+    if (wself) {
+        __strong __typeof(self) self = wself;
+        [self &lt;#sure handler#&gt;];
+    }
+}];
+
+UIAlertController *alertController = [UIAlertController alertControllerWithTitle:title message:message preferredStyle:UIAlertControllerStyleAlert];
+[alertController addAction:cancelAction];
+[alertController addAction:sureAction];
+
+[[UIApplication sharedApplication].keyWindow.rootViewController presentViewController:alertController animated:YES completion:^{
+    //
+    }];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>49C904D8-7B57-4140-8219-894B7EAD3741</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Alert With Cancel Code Snippet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Alert With Cancel</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
