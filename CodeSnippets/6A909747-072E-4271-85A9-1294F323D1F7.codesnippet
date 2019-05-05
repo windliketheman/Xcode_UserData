@@ -12,7 +12,7 @@
 	<string>- (UILabel *)&lt;#label#&gt; {
 if (!_&lt;#label#&gt;) {
 _&lt;#label#&gt; = [[UILabel alloc] init];
-_&lt;#label#&gt;.backgroundColor = [UIColor whiteColor];
+_&lt;#label#&gt;.backgroundColor = self.backgroundColor;
 _&lt;#label#&gt;.textColor = &lt;#textColor#&gt;;
 _&lt;#label#&gt;.textAlignment = NSTextAlignment&lt;#Left#&gt;;
 _&lt;#label#&gt;.lineBreakMode = NSLineBreakBy&lt;#WordWrapping#&gt;;

@@ -12,7 +12,7 @@
 	<string>- (&lt;#UIView#&gt; *)&lt;#subview#&gt; {
 if (!_&lt;#subview#&gt;) {
 _&lt;#subview#&gt; = [[&lt;#UIView#&gt; alloc] init];
-_&lt;#subview#&gt;.backgroundColor = [UIColor whiteColor];
+_&lt;#subview#&gt;.backgroundColor = self.backgroundColor;
 }
 return _&lt;#subview#&gt;;
 }</string>

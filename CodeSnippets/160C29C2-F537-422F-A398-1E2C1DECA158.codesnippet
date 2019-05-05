@@ -12,7 +12,7 @@
 	<string>- (UIButton *)&lt;#button#&gt; {
 if (!_&lt;#button#&gt;) {
 _&lt;#button#&gt; = [[UIButton alloc] init];
-_&lt;#button#&gt;.backgroundColor = [UIColor whiteColor];
+_&lt;#button#&gt;.backgroundColor = self.backgroundColor;
 _&lt;#button#&gt;.titleLabel.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
 [_&lt;#button#&gt; setTitleColor:&lt;#titleColor#&gt; forState:UIControlStateNormal];
 [_&lt;#button#&gt; setTitle:&lt;#title#&gt; forState:UIControlStateNormal];

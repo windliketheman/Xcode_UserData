@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>alertwithtextfield</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSString *title = &lt;#title#&gt;;
+NSString *message = &lt;#message#&gt;;
+__weak __typeof(self) wself = self;
+__block __weak UITextField *tf = nil;
+
+UIAlertAction *cancelAction = [UIAlertAction actionWithTitle:@"取消" style:UIAlertActionStyleCancel handler:^(UIAlertAction *cancelAction) {
+    // do nothing
+}];
+
+UIAlertAction *sureAction = [UIAlertAction actionWithTitle:@"确定" style:UIAlertActionStyleDefault handler:^(UIAlertAction *sureAction) {
+    if (wself) {
+        __strong __typeof(self) self = wself;
+        __strong UITextField *textField = tf;
+        [self &lt;#handleAlertSureActionWithTextField:textField#&gt;];
+    }
+}];
+
+UIAlertController *alertController = [UIAlertController alertControllerWithTitle:title message:message preferredStyle:UIAlertControllerStyleAlert];
+[alertController addTextFieldWithConfigurationHandler:^(UITextField * _Nonnull textField) {
+    tf = textField;
+}];
+
+[alertController addAction:cancelAction];
+[alertController addAction:sureAction];
+
+[[UIApplication sharedApplication].keyWindow.rootViewController presentViewController:alertController animated:YES completion:^{
+    //
+    }];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>38F21AA2-641C-41B1-A2F4-289DDC470199</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Alert With TextField Code Snippet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Alert With TextField</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
