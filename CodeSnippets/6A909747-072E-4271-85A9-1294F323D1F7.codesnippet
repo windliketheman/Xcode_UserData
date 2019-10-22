@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (UILabel *)&lt;#label#&gt; {
+	<string>- (UILabel *)&lt;#label#&gt;
+{
 if (!_&lt;#label#&gt;) {
 _&lt;#label#&gt; = [[UILabel alloc] init];
 _&lt;#label#&gt;.backgroundColor = self.backgroundColor;

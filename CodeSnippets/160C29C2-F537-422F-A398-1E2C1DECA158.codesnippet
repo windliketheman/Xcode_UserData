@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (UIButton *)&lt;#button#&gt; {
+	<string>- (UIButton *)&lt;#button#&gt;
+{
 if (!_&lt;#button#&gt;) {
 _&lt;#button#&gt; = [[UIButton alloc] init];
 _&lt;#button#&gt;.backgroundColor = self.backgroundColor;
