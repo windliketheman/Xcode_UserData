@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>singletoncs</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma mark - Singleton
++ (&lt;#ClassName#&gt; *)&lt;#sharedInstance#&gt;
+{
+    static &lt;#ClassName#&gt; *__&lt;#sharedInstance#&gt; = nil;
+    static dispatch_once_t dispatchToken;
+    dispatch_once(&amp;dispatchToken, ^{
+        __&lt;#sharedInstance#&gt; = [[super allocWithZone:nil] init];
+    });
+    return __&lt;#sharedInstance#&gt;;
+}
+
+- (instancetype)init
+{
+    if (self = [super init]) {
+        // init
+    }
+    return self;
+}
+
+- (void)dealloc
+{
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
+}
+
++ (instancetype)allocWithZone:(struct _NSZone *)zone
+{
+    if (self.class == &lt;#ClassName#&gt;.class) {
+        return self.class.&lt;#sharedInstance#&gt;;
+    } else {
+        return [super allocWithZone:zone];
+    }
+}
+
++ (instancetype)alloc
+{
+    if (self.class == &lt;#ClassName#&gt;.class) {
+        return self.class.&lt;#sharedInstance#&gt;;
+    } else {
+        return [super alloc];
+    }
+}
+
++ (instancetype)new
+{
+    if (self.class == &lt;#ClassName#&gt;.class) {
+        return self.class.&lt;#sharedInstance#&gt;;
+    } else {
+        return [super new];
+    }
+}
+
+#ifndef OBJC_ARC_UNAVAILABLE
++ (id)copyWithZone:(struct _NSZone *)zone
+{
+    if (self.class == &lt;#ClassName#&gt;.class) {
+        return self.class.&lt;#sharedInstance#&gt;;
+    } else {
+        return [super copyWithZone:zone];
+    }
+}
+
+#endif</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9A59B316-BF03-4A32-9FFC-FDB950E71ACF</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Singleton Code Snippet</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Singleton</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -3,32 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dismaincs</string>
+	<string>titleheightcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>void (^action)(void) = ^{
-    &lt;#action#&gt;
-};
-
-if ([NSThread isMainThread]) {
-    action();
-} else {
-    NSLog(@"%@: goto MainThread", NSStringFromClass(self.class));
-    dispatch_async(dispatch_get_main_queue(), ^{
-        action();
-    });
-}</string>
+	<string>CGRect rect = [&lt;#string#&gt; boundingRectWithSize:CGSizeMake(&lt;#titleWidth#&gt;, &lt;#10000#&gt;) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName: &lt;#titleFont#&gt;} context:nil];
+return rect.size.height;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0183C6ED-AA58-4D7F-B7FA-ED2CD7555F64</string>
+	<string>6B2B4512-CC37-4612-98BF-644CB2F456D8</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>dispatch main queue Code Snippet</string>
+	<string>Title Height Code Snippet</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>dispatch main queue</string>
+	<string>Title Height</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

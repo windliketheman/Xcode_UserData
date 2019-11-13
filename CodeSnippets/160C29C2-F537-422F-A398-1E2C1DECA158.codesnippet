@@ -13,8 +13,8 @@
 {
 if (!_&lt;#button#&gt;) {
 _&lt;#button#&gt; = [[UIButton alloc] init];
-_&lt;#button#&gt;.backgroundColor = self.backgroundColor;
-_&lt;#button#&gt;.titleLabel.font = [UIFont systemFontOfSize:&lt;#font#&gt;];
+_&lt;#button#&gt;.backgroundColor = &lt;#color#&gt;;
+_&lt;#button#&gt;.titleLabel.font = &lt;#font#&gt;;
 [_&lt;#button#&gt; setTitleColor:&lt;#titleColor#&gt; forState:UIControlStateNormal];
 [_&lt;#button#&gt; setTitle:&lt;#title#&gt; forState:UIControlStateNormal];
 [_&lt;#button#&gt; addTarget:self action:@selector(&lt;#action#&gt;) forControlEvents:UIControlEventTouchUpInside];

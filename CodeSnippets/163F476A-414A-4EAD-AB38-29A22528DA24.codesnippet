@@ -13,7 +13,7 @@
 {
 if (!_&lt;#subview#&gt;) {
 _&lt;#subview#&gt; = [[&lt;#UIView#&gt; alloc] init];
-_&lt;#subview#&gt;.backgroundColor = self.backgroundColor;
+_&lt;#subview#&gt;.backgroundColor = &lt;#color#&gt;;
 }
 return _&lt;#subview#&gt;;
 }</string>
