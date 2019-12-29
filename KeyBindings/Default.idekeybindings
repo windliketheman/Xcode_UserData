@@ -16,7 +16,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -36,7 +36,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -56,7 +56,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -76,7 +76,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -96,7 +96,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -116,7 +116,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -136,7 +136,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -156,7 +156,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -176,7 +176,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -196,7 +196,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -216,7 +216,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -236,7 +236,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Navigation</key>
@@ -256,7 +256,7 @@
 				<key>Group</key>
 				<string>Editor Menu for Source Code</string>
 				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
 				<key>GroupedAlternate</key>
 				<string>NO</string>
 				<key>Keyboard Shortcut</key>
