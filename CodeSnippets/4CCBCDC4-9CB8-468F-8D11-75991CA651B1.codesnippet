@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>procopycs</string>
+	<string>makeleftcs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) NSString *&lt;#property#&gt;;</string>
+	<string>make.left.equalTo(@(&lt;#value#&gt;));</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9420CBE2-DF2B-4504-9A0E-C70D322153AC</string>
+	<string>4CCBCDC4-9CB8-468F-8D11-75991CA651B1</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property copy Code Snippet</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property copy</string>
+	<string>My Code Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
